@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15550058947",
+    "firebase_url": "https://gympal-3b091.firebaseio.com",
+    "project_id": "gympal-3b091",
+    "storage_bucket": "gympal-3b091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15550058947:android:d504c6cc59b3a5f5",
+        "android_client_info": {
+          "package_name": "com.ricoapps.gympal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15550058947-ufba958u0h1tlvvv9rp7r9sq8s9qhv5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ricoapps.gympal",
+            "certificate_hash": "933a31b936b84de89242c30f2ae157ea3d1c89f6"
+          }
+        },
+        {
+          "client_id": "15550058947-vokuv6srib0fmkkm8d8bjbpv3b4fuh0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-HeaFhAttxuUcWyqcR3TcbKc9E4xsb0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15550058947-vokuv6srib0fmkkm8d8bjbpv3b4fuh0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
